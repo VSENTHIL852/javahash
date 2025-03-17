@@ -18,7 +18,7 @@ public class Main{
         else{
             System.out.println(map.get("value not found"));
         }
-        System.out.println("ovrall size of the map is:" +map.size()); 
+        System.out.println("overall size of the map is:" +map.size()); 
         
     }
 }
